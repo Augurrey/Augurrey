@@ -80,11 +80,12 @@ A web app for searching images through the Pixabay API and viewing results in a 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=flat-square)
 ![English](https://img.shields.io/badge/English-Pre--Intermediate-6C63FF?style=flat-square)
 
-## GitHub statistics
+## GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Augurrey&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augurrey&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/Augurrey?style=for-the-badge&logo=github&label=Followers)](https://github.com/Augurrey?tab=followers)
+[![Repository activity](https://img.shields.io/github/commit-activity/t/Augurrey/Augurrey?style=for-the-badge&logo=github&label=Profile%20activity)](https://github.com/Augurrey/Augurrey/commits/main)
+[![Profile](https://img.shields.io/badge/GitHub-Visit%20my%20profile-181717?style=for-the-badge&logo=github)](https://github.com/Augurrey)
+
+> GitHub's native profile page also shows the live contribution graph and full repository activity.
 
 <p align="center">Thanks for stopping by! Feel free to connect with me.</p>
