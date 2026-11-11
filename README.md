@@ -1,53 +1,90 @@
-# 👋 Привіт, я Augurrey
+<h1 align="center">Hi there, I'm Ihor Hulchak 👋</h1>
 
-### Junior Fullstack Developer | JavaScript · React · Node.js
-
-Я розвиваюсь у веброзробці та створюю сучасні, адаптивні й зручні вебзастосунки. Люблю перетворювати ідеї на зрозумілий інтерфейс, працювати з API та постійно вдосконалювати свої навички.
-
-- 🌱 Зараз поглиблюю знання JavaScript, React і Node.js
-- 🧩 Цікавлюся розробкою SPA, REST API та чистою архітектурою коду
-- 🤝 Відкритий(-а) до навчальних проєктів і нових можливостей
-- 📫 Написати мені можна через [GitHub](https://github.com/Augurrey)
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+<p align="center">
+  <strong>IT Support Engineer</strong> · <strong>Junior Fullstack Developer</strong>
 </p>
 
-## 💻 Проєкти
+<p align="center">
+  I troubleshoot hardware, support users, and build web applications with JavaScript, TypeScript, React, Next.js, and Node.js.
+</p>
 
-Незабаром тут з’являться мої найкращі навчальні та pet-проєкти.
+<p align="center">
+  <a href="https://github.com/Augurrey"><img src="https://img.shields.io/badge/GitHub-Augurrey-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/augurey/"><img src="https://img.shields.io/badge/LinkedIn-Ihor%20Hulchak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/augurrey"><img src="https://img.shields.io/badge/Telegram-@augurrey-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-> Маєш проєкт, яким пишаєшся? Додай його сюди у такому форматі:  
-> **[Назва проєкту](https://github.com/Augurrey)** — коротко: яку проблему вирішує, які технології використано та за що ти відповідав(-ла).
+## About me
 
-## 🗣️ Мови
+I am a Fullstack Developer at the beginning of my software engineering career, with a background in hands-on IT support and technical leadership. My experience diagnosing complex hardware issues, coordinating engineers, and delivering reliable service helps me approach web development with an analytical mindset, attention to detail, and a focus on maintainable solutions.
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=flat-square)
-![English](https://img.shields.io/badge/English-Learning-6C63FF?style=flat-square)
+- 🔭 I work as a **Service Center Engineer**, diagnosing, maintaining, and repairing computers, laptops, printers, power stations, and consumer electronics.
+- 🌱 I am expanding my Fullstack skills through **GoIT's Fullstack Web Development course**.
+- 🧩 I enjoy building responsive interfaces, integrating REST APIs, and improving user experience.
+- 🤝 I am open to junior Fullstack opportunities and collaborative projects.
 
-## 📊 GitHub Stats
+## Tech stack
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Augurrey&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Augurrey" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+**Also familiar with:** responsive and adaptive design, Axios, async/await, DOM manipulation, Web Storage, GitHub Pages, and Agile/Scrum workflows.
+
+## Featured projects
+
+### [Handmade Jewelry](https://yuriymboyko.github.io/hmj-team-project/)
+
+Responsive, nature-inspired landing page for a sustainable handmade jewelry brand.
+
+- **Role:** Web Developer / Team Lead in a team of 10 contributors
+- **Stack:** HTML5, CSS3, JavaScript, Vite, Trello, GitHub Pages
+- Coordinated tasks through Trello, reviewed pull requests, and contributed to 10 functional sections.
+- Delivered pixel-accurate responsive styling for mobile, tablet, and desktop layouts.
+- Configured Vite bundling and deployment to GitHub Pages.
+
+[Repository](https://github.com/YuriyMBoyko/hmj-team-project) · [Live demo](https://yuriymboyko.github.io/hmj-team-project/)
+
+### [Image Search App](https://augurrey.github.io/goit-js-hw-12/)
+
+A web app for searching images through the Pixabay API and viewing results in a full-screen gallery.
+
+- **Role:** Frontend Developer / Individual project
+- **Stack:** JavaScript (ES6+), Axios, async/await, Vite, SimpleLightbox, iziToast
+- Implemented asynchronous API requests, pagination with a dynamic **Load more** button, and modular project structure.
+- Added image preview, smooth scrolling, and feedback notifications for a more polished user experience.
+
+[Repository](https://github.com/Augurrey/goit-js-hw-12) · [Live demo](https://augurrey.github.io/goit-js-hw-12/)
+
+## Experience highlights
+
+- **Service Center Engineer** at Enron Service Center (January 2023 - present): hardware diagnostics, component-level repairs, soldering, and SMD/BGA replacement.
+- **Chief Lead Engineer** at Touch Light (January 2019 - August 2024): managed and trained a nationwide network of 30 engineers, coordinated technical logistics and service operations, and supported specialized cosmetic equipment.
+
+## Education
+
+- **Fullstack Web Development** - IT School GoIT (2026 - present)
+- **Master's degree in Computer Science, Artificial Intelligence Systems** - Vinnytsia National Technical University (2013 - 2018)
+
+## Languages
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=flat-square)
+![English](https://img.shields.io/badge/English-Pre--Intermediate-6C63FF?style=flat-square)
+
+## GitHub statistics
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Augurrey&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augurrey&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
-## 📫 Зв’язок
-
-[![GitHub](https://img.shields.io/badge/GitHub-Augurrey-181717?style=for-the-badge&logo=github)](https://github.com/Augurrey)
-
-<!--
-Додай контакти, коли будеш готовий(-а):
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ваш%20профіль-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yourusername)
--->
+<p align="center">Thanks for stopping by! Feel free to connect with me.</p>
