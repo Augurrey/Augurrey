@@ -42,6 +42,17 @@ I am a Fullstack Developer at the beginning of my software engineering career, w
 
 ## Featured projects
 
+### [The Sweet Workshop](https://github.com/Augurrey/the-sweet-workshop)
+
+A responsive team landing page for a handmade dessert brand, created as a GoIT team project.
+
+- **Role:** Frontend Developer / Team project contributor
+- **Stack:** HTML5, CSS3, JavaScript, Vite, Axios, Swiper.js
+- Developed the **Customer Reviews** section and supported the feedback-slider experience.
+- Optimized image assets to improve page performance and loading speed.
+
+[Repository](https://github.com/Augurrey/the-sweet-workshop) · [Live demo](https://taisiiiaaa.github.io/the-sweet-workshop/)
+
 ### [Handmade Jewelry](https://yuriymboyko.github.io/hmj-team-project/)
 
 Responsive, nature-inspired landing page for a sustainable handmade jewelry brand.
